@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: zandabanda
+  repo: dumbyapp
+  url: https://github.com/zandabanda/dumbyapp.git
+  version: ""
+  versionURL: ""

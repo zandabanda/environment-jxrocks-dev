@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: zandabanda
+    provider: github
+    repository: dumbyapp
+  name: zandabanda-dumbyapp
+spec:
+  description: Imported application for zandabanda/dumbyapp
+  httpCloneURL: https://github.com/zandabanda/dumbyapp.git
+  org: zandabanda
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: dumbyapp
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/zandabanda/dumbyapp.git
